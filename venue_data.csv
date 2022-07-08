@@ -1,0 +1,844 @@
+name,id,food,price,location,avg_rating
+Carne Mare,55555,Italian,3,Seaport,4.68966
+Le Gratin,60029,French,3,Lower Manhattan,4.71728
+The Bar Room at The Beekman,40703,American,2,Financial District,4.45235
+Temple Court,54402,American,3,FiDi,4.45558
+The Bar at Manhatta,59549,American,1,Financial District,4.76995
+Crown Shy,10726,American,3,Financial District,4.64614
+SAGA,52855,New American,4,Financial District,4.8321
+One White Street,49137,American,3,Tribeca,4.73259
+Bâtard,52972,Modern European,4,Tribeca,4.66667
+Overstory,53052,Cocktail Bar,2,Financial District,4.82211
+American Cut Tribeca,35663,Steakhouse,3,Tribeca,4.65217
+Tribeca Grill,52969,New American,3,Tribeca,4.05556
+Blue Smoke Battery Park City,3038,BBQ,2,Battery Park,4.57143
+Locanda Verde,52612,Italian,3,TriBeCa,4.46053
+La Marchande,59156,French,3,Financial District,4.65455
+Jing Fong,49995,Cantonese,2,Chinatown,4.30769
+Momofuku Ssäm Bar,6654,American,2,Seaport,4.45852
+City Vineyard & Wine Garden at Pier 26,9840,American,2,Tribeca,4.13566
+Veranda,50229,American,2,SoHo,4.46736
+Pasquale Jones,440,Pizza,2,Nolita,4.6929
+Bistrot Leo,37241,French,2,Soho,4.06667
+Balthazar,50227,French,3,Soho,4.64989
+Wayan,4599,Southeast Asian,2,Nolita,4.65104
+Lure Fishbar,49982,Seafood,3,SoHo,4.43353
+The Mercer Kitchen by Jean-Georges,27684,American,1,SoHo,4.04238
+Freemans,223,American,2,Lower East Side,4.50966
+The Dutch,50095,American,3,Soho,4.57377
+Sadelle's,29967,Brunch,2,SOHO,4.63905
+King,646,Italian,3,SoHo,4.58181
+Charlie Bird,5,Italian,3,SoHo,4.66841
+Torien,7318,Japanese,4,Noho,4.83642
+ZZ's Clam Bar,6249,Seafood,4,Greenwich Village,4.69118
+DOMODOMO New York,43111,Japanese,2,West Village,4.58868
+Bowery Meat Company,50689,Steakhouse,3,Nolita,4.55838
+Bar Primi,52614,Italian,2,NoHo/East Village,4.73913
+Carbone,6194,Italian,4,Greenwich Village,4.74977
+Una Pizza Napoletana,6066,Pizza,3,Lower Manhattan,4.47965
+Celestine,1616,Mediterranean,2,Dumbo,4.58072
+Momofuku Ko,3238,American,4,East Village,4.66612
+The Smile,42658,Mediterranean,1,Noho,4.56172
+Rosie’s,725,Mexican,2,East Village,4.61961
+Dirty French,35679,French,3,Lower East Side,4.61519
+Lafayette Grand Café & Bakery,52613,French,3,NoHo,4.54839
+ATLA,47491,Mexican,2,Noho,4.32767
+da Toscano,8568,Italian,3,Greenwich Village,4.7936
+Jeju Noodle Bar,1543,Korean,2,West Village,4.59426
+Via Carota,2567,Italian,2,West Village,4.75396
+Shmoné,59072,Israeli,1,Greenwich Village,4.15909
+Fairfax,1689,American,2,West Village,4.75915
+Perry Street by Jean-Georges & Cedric,5966,American,3,West Villiage,4.71906
+Please Don't Tell (PDT),10500,Cocktail Bar,2,East Village,4.56953
+Please Don't Tell Calle San Marcos,60882,Mexican,1,East Village,3.35714
+Dante West Village,9675,Mediterranean,2,West Village,4.62805
+American Bar - New York,9906,American,2,West Village,4.57816
+Les Trois Chevaux,51336,French,4,West Village,4.52899
+Don Angie,1505,Italian,2,West Village,4.8585
+Gage & Tollner,10123,American,2,Downtown Brooklyn,4.66751
+Barbuto,9649,Italian,2,West Village,4.76978
+Raines Law Room,5886,Cocktail Bar,2,Chelsea,4.69698
+Dear Irving Gramercy,5273,Cocktail Bar,2,Gramercy,4.78774
+abc Kitchen by Jean-Georges,5255,American,2,Flatiron,4.54135
+GupShup,6008,Indian,2,Gramercy,4.31684
+abcV by Jean-Georges,5256,Vegetarian,2,Union Square,4.66123
+abc Cocina by Jean-Georges,5257,Latin American,2,Flatiron,4.49763
+The Tavern at Gramercy Tavern,3731,American,4,Gramercy Park,4.73496
+The Dining Room at Gramercy Tavern,52209,American,4,Flatiron,4.72589
+Rezdôra,5771,Italian,3,Flatiron District,4.64943
+Misi,3015,Italian,3,Williamsburg,4.71312
+Cote,35676,Korean,3,Chelsea,4.73418
+Lucali NY,54876,Pizza,1,Brooklyn,4.8
+Al Coro,59989,Italian,2,Chelsea,4.625
+Mel's,58524,Pizza,2,Chelsea,4.69311
+Diner,2038,American,2,Williamsburg,4.65915
+City Winery New York City in Hudson River Park,37243,Wine,2,Chelsea,4.34988
+Red Hook Tavern,6377,American,2,Red Hook,4.8378
+Scarpetta,35688,Italian,3,NoMad,4.5431
+Franks Wine Bar,3431,Wine,2,Carroll Gardens,4.85853
+Laser Wolf Brooklyn,58848,Israeli,2,Williamsburg,4.76829
+Leuca,52615,Italian,3,Williamsburg,4.4
+Gertie,2774,Jewish American,2,Williamsburg,4.62732
+Ci Siamo,54724,Italian,1,Midtown West,4.71895
+Zou Zou's,59617,Mediterranean,3,Upper Chelsea,4.57692
+Sofreh,27154,Persian,2,Prospect Heights,4.82738
+Lilia,418,Italian,3,Williamsburg,4.77314
+Emily BK,405,Pizza,2,Clinton Hill,4.73719
+Patti Ann's,59407,American,2,Prospect Heights,4.64413
+Maison Yaki,5814,French-American and Japanese,2,Prospect Heights,4.48994
+Le Pavillon,50955,French,4,Midtown,4.71605
+Bonnie's,54591,Chinese,2,Williamsburg,4.82472
+Olmsted,1124,American,2,Prospect Heights,4.73205
+The Terrace and Outdoor Gardens at the Times Square EDITION,59203,Contemporary American,3,Times Square,4.46474
+HaSalon NYC,5501,Mediterranean,4,Hell's Kitchen,4.44859
+The Bar Room at The Modern,7295,American,4,Midtown,4.74707
+Quality Bistro,52788,Brasserie,3,Midtown West,4.63889
+Benoit-NYC,44100,French,2,Midtown,4.44153
+BLT Steak New York,53782,Steakhouse,3,Midtown,4.0
+Quality Italian,35684,Steakhouse,4,Midtown West,4.48276
+IRIS,59202,Mediterranean,1,Midtown,4.60491
+Quality Meats,35685,Steakhouse,4,Midtown West,4.54545
+Momofuku Noodle Bar Uptown,3796,Asian,2,Columbus Circle,4.53865
+Jean-Georges,5951,French,4,Upper West Side,4.7395
+Nougatine Restaurant by Jean-Georges,5952,French,3,Upper West Side,4.66727
+Restaurant Daniel,29947,French,3,Upper East Side,4.70179
+Penny Bridge,53105,American,2,Long Island City,4.72335
+Adda,7291,Indian,2,Long Island City,4.64169
+BLT Prime New York,53798,Steakhouse,3,Upper East Side,5.0
+North Miznon,6380,Mediterranean,2,Upper West Side,4.32933
+Maison Pickle,857,American,2,Upper West Side,4.57157
+Jacob's Pickles,501,Southern,1,Upper West Side,4.64548
+Vinatería,1696,Italian,2,Harlem,4.64802
+Sylvia’s Restaurant,6169,Southern,2,Harlem,4.32848
+Le Gratin,60029,French,3,Lower Manhattan,4.71728
+SHION 69 Leonard Street,888,Japanese,4,TriBeCa,4.66412
+The Bar at Manhatta,59549,American,1,Financial District,4.76995
+Bellini at Harry's Table,59544,Italian,1,New York,4.27726
+Au Cheval - NYC,5769,American,2,Tribeca,4.75353
+Mena,58297,International,1,TriBeCa,4.46829
+Crown Shy,10726,American,3,Financial District,4.64614
+SAGA,52855,New American,4,Financial District,4.8321
+One White Street,49137,American,3,Tribeca,4.73259
+Overstory,53052,Cocktail Bar,2,Financial District,4.82211
+Frenchette,1946,French,2,Tribeca,4.61336
+Liberty Bistro,175,French,2,Battery Park City,4.33111
+NAKAJI,10163,Sushi,4,Chinatown,4.8679
+Locanda Verde,52612,Italian,3,TriBeCa,4.46053
+Malibu Farm New York,7192,Californian,2,The Seaport,4.25452
+The Tyger,34814,Asian,2,Soho,4.64198
+Dante Seaport,58736,Cocktail Bar,1,The Seaport,3.668
+The Fulton by Jean-Georges,5932,Seafood,2,The Seaport,4.43042
+Golden Diner,9520,Asian American,1,Chinatown/LES,4.76994
+Tomiño Taberna Gallega,50250,Spanish,2,Soho,4.75191
+l'abeille,59006,French,3,Tribeca,4.7827
+MP Governors Island,52210,Italian,4,Governors Island,4.88889
+Little Ways,37837,American,1,Soho,4.55878
+Veranda,50229,American,2,SoHo,4.46736
+The Dead Rabbit,38660,Irish,2,Financial District,4.82955
+Shoo Shoo,4044,Mediterranean,2,Nolita,4.67315
+Pasquale Jones,440,Pizza,2,Nolita,4.6929
+Lobby Lounge,60639,Cocktail Bar,1,New York,4.94118
+19 Cleveland,3899,Israeli,2,Soho,4.5835
+Corner Bar,59068,American,1,Lower East Side,4.81215
+Thai Diner,49453,Thai,1,Nolita,4.73138
+Kimika,30248,Asian,2,Nolita,4.38039
+Balthazar,50227,French,3,Soho,4.64989
+Wayla,5192,Thai,2,Lower East Side,4.74944
+Le Dive,60381,French,1,Lower East Side,4.88889
+Wan Wan,59570,Thai,1,Nolita,4.75543
+Wayan,4599,Southeast Asian,2,Nolita,4.65104
+HIROHISA,40734,Japanese,4,Soho,4.70784
+Gem,49194,New American,3,Lower East Side,4.72647
+cloudM rooftop bar at citizenM Bowery,3233,Cocktail Bar,2,Lower East Side,4.42786
+Boqueria Soho,27219,Tapas,2,Soho,4.67634
+Peasant,50826,Italian,3,Nolita,4.5761
+Dirt Candy,29371,Vegetarian,2,Lower East Side,4.81755
+Sant Ambroeus - Soho,54225,Italian,3,Soho,4.44898
+Loreley Beer Garden,1190,German,2,Lower East Side,4.36659
+Lure Fishbar,49982,Seafood,3,SoHo,4.43353
+Taikun Sushi,50244,Sushi,3,Lower East Side,4.91304
+The Back Room at Double Chicken Please,42534,Contemporary American,2,Lower East Side,4.7432
+Forsythia,27809,Italian,2,Lower East Side,4.78437
+Sadelle's,29967,Brunch,2,SOHO,4.63905
+Sushi Ikumi,40735,Sushi,4,Soho,4.93023
+Bar Tulix,58996,Mexican,1,Soho,4.44106
+The Musket Room,3630,International,2,Soho,4.58078
+Dhamaka,48994,Indian,2,Essex Market,4.48066
+Lola Taverna,7502,Greek,2,SoHo,4.50176
+Matsunori,58553,Sushi,1,New York,4.77363
+Gugu Room,60350,Filipino,1,Lower East Side,4.49398
+Raku Soho,2026,Japanese,2,SoHo,4.83595
+12 Chairs Cafe Soho,4994,Israeli,1,Soho,4.51776
+Charlie Bird,5,Italian,3,SoHo,4.66841
+Little Prince,54193,French,2,SoHo,4.56575
+Torien,7318,Japanese,4,Noho,4.83642
+Ingas Bar,59402,American,2,Brooklyn Heights,4.65668
+DOMODOMO New York,43111,Japanese,2,West Village,4.58868
+Bar Primi,52614,Italian,2,NoHo/East Village,4.73913
+Carbone,6194,Italian,4,Greenwich Village,4.74977
+8282,54395,Korean,1,New York,4.79949
+Una Pizza Napoletana,6066,Pizza,3,Lower Manhattan,4.47965
+Saigon Social,10494,Vietnamese,1,Lower East Side,4.68248
+Celestine,1616,Mediterranean,2,Dumbo,4.58072
+Momofuku Ko,3238,American,4,East Village,4.66612
+Dante,1290,Italian,2,Greenwich Village,4.66893
+Rosie’s,725,Mexican,2,East Village,4.61961
+Kappo Sono / Koryori,58600,Japanese,4,New York,5.0
+il Buco Alimentari e Vineria,6583,Mediterranean,2,NoHo,4.71203
+ATLA,47491,Mexican,2,Noho,4.32767
+Lil' Frankie's,10413,Italian,2,East Village,4.4788
+Sixty Three Clinton,52711,New American,4,Lower East Side,4.89514
+Minetta Tavern,9846,French,2,Greenwich Village,4.76548
+Bandits,51904,American,1,West Village,4.52156
+da Toscano,8568,Italian,3,Greenwich Village,4.7936
+Clinton St. Baking Co,2078,American,2,Lower East SIde,4.71808
+Indochine,32470,French Vietnamese,2,Noho,4.67822
+The Commerce Inn,53342,American,2,New York,4.38
+The Noortwyck,58972,New American,2,New York,4.87582
+The Garret West,50733,Cocktail Bar,1,West Village,4.16667
+Llama San,4450,Peruvian,2,Lower Manhattan,4.68121
+Buvette NYC,4241,French,2,West Village,4.56745
+The Spaniard,1435,American,2,West Village,4.49169
+Miss Lily's 7A Cafe & Rum Bar,1968,Caribbean,2,East Village,4.66785
+Emmett's On Grove,58219,Italian,2,West Village,4.54174
+Jeju Noodle Bar,1543,Korean,2,West Village,4.59426
+Via Carota,2567,Italian,2,West Village,4.75396
+Employees Only,35203,Cocktail Bar,2,West Village,4.47201
+Analogue,5902,Cocktail Bar,1,West Village,4.74441
+Saint Theo's,52984,Italian,3,West Village,4.39132
+Nudibranch,59010,Asian American,2,East Village,4.69106
+MáLà Project East Village,6410,Chinese,1,Lower Manhattan,4.69807
+Bird Dog NY,55553,Southern,2,"West Village, NYC",4.65658
+Shinn East,34687,Sushi,2,East Village,4.86818
+Omakase Room by Mitsu,7519,Sushi,4,West Village,4.8
+Jeffrey's Grocery,395,Seafood,3,West Village,4.75814
+Due West,1990,New American,2,Greenwich Village,4.7277
+Shmoné,59072,Israeli,1,Greenwich Village,4.15909
+Fairfax,1689,American,2,West Village,4.75915
+St Jardim,59132,Natural Wine,1,West Village,4.82963
+Cafe Mogador - East Village,34985,Middle Eastern,2,East Village,4.79832
+MOKYO,38941,Korean,2,"East Village, NYC",4.84717
+Please Don't Tell (PDT),10500,Cocktail Bar,2,East Village,4.56953
+Shabu Tatsu,36758,Japanese,2,East Village,4.80052
+Dante West Village,9675,Mediterranean,2,West Village,4.62805
+American Bar - New York,9906,American,2,West Village,4.57816
+Colonie,1999,American,2,Brooklyn Heights,4.83315
+Morandi,26,Italian,2,West Village,4.6518
+Semma,1263,Indian,2,West Village,4.55631
+Yellow Rose,53048,Tex-Mex,1,New York,4.63328
+Nat's on Bank,52212,American,2,West Village,4.63927
+Balaboosta,27,Israeli,2,West Village,4.59274
+The Waverly Inn,58422,American,3,West Village,4.39359
+Don Angie,1505,Italian,2,West Village,4.8585
+Arthur & Sons NY Italian,56563,Italian American,1,West Village,4.60825
+Gage & Tollner,10123,American,2,Downtown Brooklyn,4.66751
+Popina NYC,1340,Italian,2,Cobble Hill,4.8242
+Jack & Charlie's 118,55266,American,3,West Village,4.72
+Barbuto,9649,Italian,2,West Village,4.76978
+Pastis,6484,French,2,Meatpacking District,4.78338
+Raines Law Room,5886,Cocktail Bar,2,Chelsea,4.69698
+Dear Irving Gramercy,5273,Cocktail Bar,2,Gramercy,4.78774
+abc Kitchen by Jean-Georges,5255,American,2,Flatiron,4.54135
+GupShup,6008,Indian,2,Gramercy,4.31684
+The Standard Grill,52869,American,2,Meatpacking,4.02022
+abcV by Jean-Georges,5256,Vegetarian,2,Union Square,4.66123
+Friend of a Farmer,6570,American,3,Gramercy Park,4.58066
+Le Bain,54207,American,2,Meatpacking,3.56098
+Sea Wolf Waterfront,52805,Seafood,2,Williamsburg Waterfront,4.03521
+Oiji Mi,58543,Korean,3,Flatiron,4.79048
+The Tavern at Gramercy Tavern,3731,American,4,Gramercy Park,4.73496
+Rezdôra,5771,Italian,3,Flatiron District,4.64943
+Misi,3015,Italian,3,Williamsburg,4.71312
+JungleBird,39604,Cocktail Bar,2,Chelsea,4.56789
+LOULOU,35216,French,2,Chelsea,4.45381
+Cote,35676,Korean,3,Chelsea,4.73418
+Lucali NY,54876,Pizza,1,Brooklyn,4.8
+Al Coro,59989,Italian,2,Chelsea,4.625
+Mel's,58524,Pizza,2,Chelsea,4.69311
+Bathtub Gin,1245,Cocktail Bar,2,Chelsea,4.4523
+Sunday in Brooklyn / Williamsburg,756,American,2,Williamsburg,4.58958
+City Winery New York City in Hudson River Park,37243,Wine,2,Chelsea,4.34988
+Ume,36113,Sushi,4,Williamsburg,4.53047
+Rucola Restaurant,50791,Italian,2,Boerum Hill,4.77816
+Thyme Bar,10200,Cocktail Bar,2,Flatiron,4.45095
+Francie,17392,American,3,Williamsburg,4.80245
+Upland,8338,American,2,Gramercy,4.60146
+Peter Luger Steak House,4287,Steakhouse,3,Williamsburg,4.69622
+El Quijote,58825,Spanish,1,Chelsea,4.38251
+Maison Premiere,51628,Seafood,2,Williamsburg,4.81618
+Walter's,653,American,2,Fort Greene,4.68056
+Colonia Verde,4626,Latin American,2,Fort Greene,4.82925
+"PLANTA Queen, New York",51656,Vegan,2,Nomad,4.64669
+Miss Ada,1246,Mediterranean,2,Fort Greene,4.8082
+Shukette,8579,Middle Eastern,2,Chelsea,4.83475
+Dinner Party,60228,New American,1,Fort Greene,4.80303
+Empire Diner NYC,52909,American,2,West Chelsea,4.58172
+Red Hook Tavern,6377,American,2,Red Hook,4.8378
+ilili,60544,Lebanese,2,Flatiron District,4.53552
+Evelina,1851,Italian,2,Fort Greene,4.78142
+Scarpetta,35688,Italian,3,NoMad,4.5431
+Roman's,1003,Italian,2,Fort Greene,4.84094
+Skirt Steak,54599,Contemporary American,1,New York,4.28312
+Kokomo Caribbean Restaurant,29456,Caribbean,1,Williamsburg,4.39945
+Yakitori Nonono,28460,Japanese,1,Nomad,4.63647
+Her Name is Han,1010,Korean,2,Midtown,4.72665
+Take31,5225,Korean,2,Nomad,4.69744
+Olea,49188,Mediterranean,2,Fort Greene,4.74379
+Laser Wolf Brooklyn,58848,Israeli,2,Williamsburg,4.76829
+The Four Horsemen,2492,New American,2,Williamsburg,4.87263
+Le Crocodile,8302,French,2,Williamsburg,4.76715
+Bar Blondeau,1054,French,2,Williamsburg,4.65571
+St. Anselm,32467,Steakhouse,2,Williamsburg,4.75847
+Gallow Green,51807,New American,2,Chelsea,4.21547
+Brooklyn Crab,4571,Seafood,2,Red Hook,4.32193
+HYUN,9694,Korean,4,Midtown,4.7389
+Claro,1621,Mexican,2,Gowanus,4.72843
+Di An Di,2727,Vietnamese,2,Greenpoint,4.74957
+Ci Siamo,54724,Italian,1,Midtown West,4.71895
+Zou Zou's,59617,Mediterranean,3,Upper Chelsea,4.57692
+Izakaya MEW,30189,Japanese,1,Midtown,4.73782
+Rule of Thirds,6012,Japanese,1,Greenpoint,4.66089
+Yoon Haeundae Galbi,49338,Korean,2,Midtown,4.65365
+Bo Peep Cocktail & Highball Store,51236,American,2,Midtown,4.86733
+Keens Steakhouse,3413,Steakhouse,3,Herald Square,4.75388
+Resy Presents: The Women of Food at Ci Siamo,60420,Italian,3,Hudson Yards,5.0
+Sofreh,27154,Persian,2,Prospect Heights,4.82738
+Lilia,418,Italian,3,Williamsburg,4.77314
+Peak,10087,American,4,Hudson Yards,4.75813
+Nura,54336,New American,2,Greenpoint,4.77216
+Place des Fêtes,59848,Mediterranean,1,Clinton Hill,4.84343
+al di là Trattoria,53693,Italian,2,Park Slope,4.77228
+Oxomoco,2601,Mexican,2,Greenpoint,4.74969
+Haenyeo,4951,Korean,2,Park Slope,4.8243
+Electric Lemon,6769,American,2,Hudson Yards,4.34079
+Café China,59237,Chinese,2,New York Midtown,4.55401
+La Pecora Bianca - Bryant Park,9982,Italian,2,Bryant Park,4.57763
+Eavesdrop,58369,Cocktail Bar,1,Greenpoint,4.7434
+The Skylark,52920,Rooftop Lounge,2,Midtown South,4.52561
+Wenwen,59536,Taiwanese,1,Greenpoint,4.69869
+Bryant Park Grill,1732,American,2,Midtown,4.49915
+Dear Irving on Hudson,4570,Cocktail Bar,2,Times Square/Hell's Kitchen,4.54286
+Le Pavillon,50955,French,4,Midtown,4.71605
+Bonnie's,54591,Chinese,2,Williamsburg,4.82472
+Olmsted,1124,American,2,Prospect Heights,4.73205
+Bar 54,10486,American,2,Times Square,4.00982
+Sushi Lab Rooftop,5015,Sushi,2,Midtown,4.34363
+Avra Estiatorio,54475,Greek,3,Midtown East,4.6937
+The Woo Woo,59428,Cocktail Bar,1,Hell's Kitchen,4.16867
+Runner Up,59994,Contemporary American,2,Park Slope,4.91064
+Kochi,8346,Korean,2,Hell's Kitchen,4.76562
+Casa Enrique,58337,Mexican,1,Long Island City,4.72121
+Mari,54791,Korean,2,New York,4.80815
+Oxalis,3911,New American,2,Prospect Heights,4.83119
+Omakase by korami,51762,Japanese,3,Hell’s Kitchen,4.83913
+Pasta Louise,41761,Italian,1,Park Slope,4.82099
+HaSalon NYC,5501,Mediterranean,4,Hell's Kitchen,4.44859
+Vida Verde,6995,Mexican,1,Hells Kitchen,4.34362
+Roberta's,6003,American,2,Bushwick,4.78893
+Panorama Room,53969,Cocktail Bar,2,Roosevelt Island,4.35165
+Avra Madison,54578,Greek,3,Midtown,4.73174
+Momofuku Noodle Bar Uptown,3796,Asian,2,Columbus Circle,4.53865
+Serendipity 3,41007,American,1,Upper East Side,4.27654
+Jean-Georges,5951,French,4,Upper West Side,4.7395
+Restaurant Daniel,29947,French,3,Upper East Side,4.70179
+Maison Pickle,857,American,2,Upper West Side,4.57157
+Sushi W,58367,Sushi,2,New York,4.86641
+Goosefeather,7017,Cantonese,3,Tarrytown,4.67237
+Le Bilboquet Sag Harbor,10696,French,3,Sag Harbor,4.71851
+Della's,60351,Italian American,1,New York,4.83333
+Farra,7481,American,3,Tribeca,4.80773
+The Bar at Manhatta,59549,American,1,Financial District,4.76995
+The Little Shop,36432,Cocktail Bar,2,South Street Seaport,4.80143
+Chela Tribeca,62925,Mexican,1,New York,4.875
+SAGA,52855,New American,4,Financial District,4.8321
+Sant Ambroeus - Brookfield Place,57316,Italian,3,Tribeca,4.8913
+Overstory,53052,Cocktail Bar,2,Financial District,4.82211
+L'Appart,1770,French,3,Battery Park City,4.84609
+NAKAJI,10163,Sushi,4,Chinatown,4.8679
+Casa D' Angelo,60516,Italian,1,New York,5.0
+Golden Diner,9520,Asian American,1,Chinatown/LES,4.76994
+l'abeille,59006,French,3,Tribeca,4.7827
+La Compagnie des Vins Surnaturels,5664,French,2,Little Italy,4.82839
+MP Governors Island,52210,Italian,4,Governors Island,4.88889
+The Dead Rabbit,38660,Irish,2,Financial District,4.82955
+Lobby Lounge,60639,Cocktail Bar,1,New York,4.94118
+Corner Bar,59068,American,1,Lower East Side,4.81215
+Le Dive,60381,French,1,Lower East Side,4.88889
+Potluck Club,63514,Asian American,1,Chinatown,5.0
+Esquire's Taste of Two Cities,8523,Southeast Asian,2,Nolita,5.0
+Dirt Candy,29371,Vegetarian,2,Lower East Side,4.81755
+Skin Contact Wine Bar,50714,Wine,3,Lower East Side,4.76871
+Houseman,5470,American,2,Hudson Square,4.77519
+Taikun Sushi,50244,Sushi,3,Lower East Side,4.91304
+CocoShack,60352,Seafood,1,Soho,4.83721
+Forsythia,27809,Italian,2,Lower East Side,4.78437
+Sushi Ikumi,40735,Sushi,4,Soho,4.93023
+Matsunori,58553,Sushi,1,New York,4.77363
+Raku Soho,2026,Japanese,2,SoHo,4.83595
+Gouie New York,57170,Sushi,1,Lower East Side,4.80147
+Em Vietnamese Bistro,51471,Vietnamese,2,DUMBO,4.76452
+Sushi on Jones - LES,59384,Sushi,1,New York,4.81818
+Sauce Restaurant,59476,Italian,1,New York,4.78313
+Morgenstern's Finest Ice Cream,53170,American,4,Greenwich Village,4.82609
+Blue Haven-West Village,50804,American,2,Greenwich Village,4.85088
+Torien,7318,Japanese,4,Noho,4.83642
+8282,54395,Korean,1,New York,4.79949
+Kings Co Imperial - Lower East Side,2738,Chinese,2,Lower East Side,4.80423
+Figaro NYC,60931,American,2,Greenwich Village,5.0
+Kappo Sono / Koryori,58600,Japanese,4,New York,5.0
+Sixty Three Clinton,52711,New American,4,Lower East Side,4.89514
+Ama Raw Bar - West Village,55270,Seafood,1,New York,4.80408
+Balvanera,7140,Argentinean,2,Lower East Side,4.78141
+Minetta Tavern,9846,French,2,Greenwich Village,4.76548
+Sushi Zo,696,Sushi,4,Greenwich Village,4.89398
+da Toscano,8568,Italian,3,Greenwich Village,4.7936
+Esora Omakase,54582,Japanese,4,East Village,4.86325
+The Noortwyck,58972,New American,2,New York,4.87582
+L'accolade,25120,French,2,West village,4.82376
+Mr Capri,59674,Italian,1,New York,4.80952
+Tuome,6610,New American,2,East Village,4.76774
+Shinn East,34687,Sushi,2,East Village,4.86818
+Marylou,59859,French,1,East village,4.78704
+Noreetuh,5025,American,2,East Village,4.83062
+Omakase Room by Mitsu,7519,Sushi,4,West Village,4.8
+Bar Lula,57507,Cocktail Bar,1,New York,4.88288
+Fairfax,1689,American,2,West Village,4.75915
+St Jardim,59132,Natural Wine,1,West Village,4.82963
+Cafe Mogador - East Village,34985,Middle Eastern,2,East Village,4.79832
+MOKYO,38941,Korean,2,"East Village, NYC",4.84717
+Grape & Grain NYC,56489,Mediterranean,1,New York,4.86364
+Hanoi House,4272,Vietnamese,2,East Village,4.8103
+Sushi Kai,54894,Sushi,1,New York,4.77817
+Shabu Tatsu,36758,Japanese,2,East Village,4.80052
+TLK - by Tigerlily Kitchen,58637,Southeast Asian,1,East Village,4.78095
+Colonie,1999,American,2,Brooklyn Heights,4.83315
+Thirteen Water,59903,Sushi,1,Alphabet City,4.86982
+Le Boudoir,60757,French,1,Brooklyn Heights,5.0
+Sushi Lab - East Village,61135,Sushi,1,East Village,5.0
+Accidental Bar,27607,Local,2,East Village,4.91189
+Motorino,52420,Italian,1,east village,4.83333
+Stafili Wine Cafe,54637,Wine,1,West Village,4.90132
+The Wayland,38101,American,2,Alphabet City,4.85235
+The Belfry,1513,Cocktail Bar,2,East Village,4.76285
+Smør,58326,European,1,East Village,4.84956
+Luthun,6369,International,3,East Village,4.78839
+Sushi Teru Omakase,44359,Sushi,3,West Village,4.77273
+Flex Mussels- WV,3534,Seafood,2,West Village,4.77192
+Don Angie,1505,Italian,2,West Village,4.8585
+Ama Raw Bar,50258,Seafood,1,East Village,4.78094
+Popina NYC,1340,Italian,2,Cobble Hill,4.8242
+Barbuto,9649,Italian,2,West Village,4.76978
+Pastis,6484,French,2,Meatpacking District,4.78338
+Dear Irving Gramercy,5273,Cocktail Bar,2,Gramercy,4.78774
+Oiji Mi,58543,Korean,3,Flatiron,4.79048
+Cull & Pistol,52635,Seafood,2,Chelsea,4.77778
+Sanyuu West,58894,Sushi,1,New York,4.80189
+Lucali NY,54876,Pizza,1,Brooklyn,4.8
+Salinas,50746,Spanish,2,Chelsea,4.82723
+Rucola Restaurant,50791,Italian,2,Boerum Hill,4.77816
+Francie,17392,American,3,Williamsburg,4.80245
+Sundays Well,33634,American,2,Kips Bay,4.87755
+Maison Premiere,51628,Seafood,2,Williamsburg,4.81618
+Emma's Torch,53738,American,1,Carroll Gardens,4.85714
+Coletta,58982,Vegan,1,New York,4.78693
+Pepe Giallo,50277,Italian,1,Chelsea,4.76204
+J. Bespoke,6105,American,2,Nomad,4.82108
+Colonia Verde,4626,Latin American,2,Fort Greene,4.82925
+The Rusty Face,59041,Mediterranean,1,Brooklyn,4.86
+Birds of a Feather,63241,Chinese,2,Williamsburg Brooklyn,4.91667
+Miss Ada,1246,Mediterranean,2,Fort Greene,4.8082
+Shukette,8579,Middle Eastern,2,Chelsea,4.83475
+Dinner Party,60228,New American,1,Fort Greene,4.80303
+Red Hook Tavern,6377,American,2,Red Hook,4.8378
+Tia Pol,55569,Tapas,2,Chelsea,4.82639
+Evelina,1851,Italian,2,Fort Greene,4.78142
+Tacombi - Williamsburg,7942,Mexican,1,Williamsburg,4.77885
+Osteria Brooklyn,62902,Italian,1,Brooklyn- Clinton Hill,5.0
+FRADEI,49753,European,3,Fort Greene,4.84399
+Franks Wine Bar,3431,Wine,2,Carroll Gardens,4.85853
+Somtum Der - Red Hook,61155,Thai,1,"Red Hook, Brooklyn",4.83333
+Roman's,1003,Italian,2,Fort Greene,4.84094
+Resy Presents: The Women of Food at Kokomo,60425,Caribbean,2,Brooklyn,5.0
+Sweetwater Restaurant,8767,American,1,Williamsburg,4.76072
+Oregano,62665,Italian,1,Brooklyn,4.875
+Laser Wolf Brooklyn,58848,Israeli,2,Williamsburg,4.76829
+The Four Horsemen,2492,New American,2,Williamsburg,4.87263
+Leo,34822,Pizza,1,Williamsburg,4.8012
+Santa Fe BK,63527,Southwest,1,"Williamsburg, Brooklyn",5.0
+Le Crocodile,8302,French,2,Williamsburg,4.76715
+NUBIANI,60933,Korean BBQ,3,Empire state building,4.95652
+Turntable LP Bar & Karaoke,38015,Korean Gastropub,1,Midtown West,4.77818
+Santo Brúklin,10729,Fusion,2,Carroll Gardens,4.79154
+Aromi,59847,Italian,2,Carrol Garden,4.93939
+Pizza Moto,1502,American,2,Red Hook,4.85751
+El Pingüino,58513,Seafood,2,Brooklyn,4.78363
+Aita Restaurant,3246,Italian,3,Clinton Hill,4.77173
+We Got Company,37479,Cocktail Bar,2,Williamsburg,4.76364
+El Parador Cafe,6559,Mexican,2,Murray Hill-Kips Bay,4.789
+Whitmans- Hudson Yards,60105,Burgers,1,New York,4.875
+Bo Peep Cocktail & Highball Store,51236,American,2,Midtown,4.86733
+Sofreh,27154,Persian,2,Prospect Heights,4.82738
+Lilia,418,Italian,3,Williamsburg,4.77314
+MONTESACRO,6689,Italian,2,Williamsburg,4.77801
+Nura,54336,New American,2,Greenpoint,4.77216
+Place des Fêtes,59848,Mediterranean,1,Clinton Hill,4.84343
+Madre,6094,American,2,Greenpoint,4.77345
+Kings Co Imperial - Williamsburg,608,Chinese,2,Williamsburg,4.8313
+al di là Trattoria,53693,Italian,2,Park Slope,4.77228
+Haenyeo,4951,Korean,2,Park Slope,4.8243
+Karczma Polish Restaurant,51649,Polish,1,Greenpoint,4.79693
+Sushi Zo Midtown,1359,Japanese,4,Midtown East,4.80765
+Pomp & Circumstance,6383,Mediterranean,2,Williamsburg,4.86334
+Sushi Lin,6429,Sushi,2,Park Slope,4.90135
+Oita - NYC,58607,Japanese,1,Park slope brooklyn,4.77064
+Peppercorn Station,60104,Chinese,1,New York,5.0
+KanaHashi,59637,Japanese,1,Greenpoint,5.0
+LaLou,6725,American,2,Prospect Heights,4.79411
+Sama Street,6905,Asian,2,Greenpoint,4.84158
+TALEA Beer Co.,58916,Beer,1,Brooklyn,4.83978
+Greenpoint Fish & Lobster Co.,52205,Seafood,2,Greenpoint,4.78796
+Legacy Records Special Events,3685,Italian,4,Hudson Yards,5.0
+Leland Eating and Drinking House,37987,Mediterranean,1,Prospect Heights,4.82222
+Bonnie's,54591,Chinese,2,Williamsburg,4.82472
+West Bank Cafe,7489,American,2,Hells Kitchen,4.78862
+Winona's,42650,European,2,Bed-stuy,4.75855
+Cozy Royale,32431,American,2,Williamsburg,4.76411
+Fashion Bar & Restaurant,59154,International,1,New York,5.0
+Maggie's Place,54657,Irish,1,Midtown,4.7931
+Sally's,43197,Caribbean,2,Bed Stuy,4.79
+Trattoria Trecolori,50763,Italian,2,Midtown West,4.77024
+Runner Up,59994,Contemporary American,2,Park Slope,4.91064
+Friends and Lovers,51558,Cocktail Bar,2,Crown Heights,4.77778
+Kochi,8346,Korean,2,Hell's Kitchen,4.76562
+Mari,54791,Korean,2,New York,4.80815
+West End,60791,New American,1,Hells Kitchen,5.0
+Oxalis,3911,New American,2,Prospect Heights,4.83119
+Omakase by korami,51762,Japanese,3,Hell’s Kitchen,4.83913
+Pasta Louise,41761,Italian,1,Park Slope,4.82099
+LORE,58523,Local,1,Brooklyn,4.77644
+Panchitas Place,32437,Mexican,2,Greenwood,4.89091
+53,60303,Asian,3,Midtown,4.80508
+Bar Camillo,25112,Italian,2,Bed-Stuy,4.7845
+Casellula,54471,International,2,New York,4.90909
+Yakitori Torishin,1330,Japanese,4,Hell's Kitchen,4.82659
+Ras Plant Based,10473,Vegan,1,Crown Heights,4.89906
+ostudio,60371,Wine,2,Brooklyn,4.97561
+Ardesia Wine Bar,36590,American,1,Hell's Kitchen,4.84807
+Arden,58865,American,1,Crown Heights,4.94545
+Roberta's,6003,American,2,Bushwick,4.78893
+Agi's Counter,59469,European,1,Crown Heights,4.88288
+Eyval,59419,Persian,1,Brooklyn,4.78067
+Otis,5910,American,2,East Williamsburg,4.88732
+Top Quality,32439,Mexican,2,Hunters Point,4.76368
+Falansai,50328,Vietnamese,2,Bushwick,4.80553
+Fleming by Le Bilboquet,8768,Mediterranean,2,Upper East Side,4.83832
+Santa Panza,33858,Italian,2,Bushwick,4.88502
+Maite,50905,New American,2,Bushwick,4.78621
+The Turk's Inn,5389,New American,2,Bushwick,4.78071
+Avena Ristorante UES,32148,Italian,2,Upper East Side,4.80101
+Kings County Brewers Collective,37953,Beer,2,Bushwick,4.8744
+Rolo's,36902,American,1,Ridgewood,4.8896
+& Sons Ham Bar,37248,Wine,1,Prospect Lefferts Gardens,4.98361
+Old John's Luncheonette,59219,American,1,New York,4.81609
+Bonafini,3982,Italian,2,Prospect Lefferts Garden,4.85451
+BLT Prime New York,53798,Steakhouse,3,Upper East Side,5.0
+Ops,36017,Pizza,1,Bushwick,4.81586
+Sushi Ishikawa- UES,1341,Japanese,3,Upper East Side,4.8371
+Piccolo Cafe,31469,Italian,2,Upper West Side,4.8125
+Doc Watson's,59097,American,1,New York,4.8
+La Pecora Bianca - UWS,64003,Italian,1,New York,4.77049
+Sushi Nonaka,50562,Japanese,4,Upper West Side,4.77868
+Quatorze,33880,French,3,Upper East Side,4.82022
+Sushi Ishikawa- UWS,9680,Japanese,4,Upper West Side,4.86589
+Ryan's Daughter,50922,Irish,2,Yorkville,5.0
+Prohibition - New York,57686,New American,1,Upper West Side,4.85276
+King Mother,50851,Natural Wine,2,Ditmas Park,4.93305
+TAKEDA,10335,Sushi,4,Upper West Side,4.91871
+Porcelain,51757,Asian American,1,Ridgewood,4.78261
+Pizzeria Panina,59646,Pizza,1,Queens,4.89773
+Koyo,7237,Japanese,4,Astoria,4.76757
+Tanoreen,6599,Middle Eastern,2,Bay Ridge,4.85586
+Vesta,29101,Italian,2,Astoria,4.80353
+Sweet Afton,36742,American,2,Astoria,4.77778
+Bellucci's Pizzeria,60102,Pizza,1,Astoria,5.0
+Anassa Taverna Astoria,8776,Greek,2,Astoria,4.87277
+Sushi W,58367,Sushi,2,New York,4.86641
+Alison,8697,New American,2,East Harlem,4.80147
+Elia Restaurant,2358,Greek,3,Bay Ridge,4.81471
+The Kettle Black,29943,American,1,Bay Ridge,4.7619
+Cebu Bistro,10191,American,2,Bay Ridge,4.79106
+The Bonnie,6737,American,2,Astoria,4.8365
+Telly's Taverna - Astoria,34351,Greek,2,Astoria,4.77581
+Fumo Upper West Side,29832,Italian,2,Upper West Side,4.76978
+Contento,52630,International,2,East Harlem,4.83237
+The Queensboro,5140,American,2,Jackson Heights,4.88143
+BIXI,52537,Asian,2,Harlem,4.76471
+Archer & Goat,58863,New American,1,Harlem,4.81818
+Sugar Monk,44080,Cocktail Bar,1,West Harlem,4.80131
+Marani,52982,Kosher,1,Rego Park,4.91016
+Belle Harlem,27222,American,2,Harlem,4.95041
+The Cloak Room,53965,American,1,Hamilton Heights,4.78261
+The Chick Inn,51172,American,2,Harlem,4.84713
+Wise Bar and Grill,60684,New American,2,Brooklyn,4.92857
+Saggio,34714,Italian,2,Washington Heights,4.84083
+The Uptown Garrison,34712,American,2,Washington Heights,4.81529
+When in Bangkok,60041,Thai,1,Murray Hill,4.83871
+VERANDA RESTAURANT,28930,Mediterranean,2,Bayside,4.77358
+La Cucina Di Nava,54906,Italian,1,Teaneck,4.7619
+BURRATA,4918,Italian,2,Eastchester,4.88479
+Le Gratin,60029,French,3,Lower Manhattan,4.71728
+Kesté Pizza & Vino,59213,Pizza,1,New York,4.75806
+Della's,60351,Italian American,1,New York,4.83333
+Primo's,58847,Cocktail Bar,2,New York,4.35484
+Felice 15 Gold,59610,Italian,1,Financial District,4.44444
+The Bar at Manhatta,59549,American,1,Financial District,4.76995
+Bellini at Harry's Table,59544,Italian,1,New York,4.27726
+Makitiki,60441,Japanese,2,The Seaport,5.0
+Zutto Japanese American Pub,50560,Japanese,1,TriBeCa,4.27273
+Chela Tribeca,62925,Mexican,1,New York,4.875
+Mena,58297,International,1,TriBeCa,4.46829
+The Django,58129,American,1,TriBeCa,4.55412
+Sant Ambroeus - Brookfield Place,57316,Italian,3,Tribeca,4.8913
+Thalassa Restaurant,53176,Mediterranean,3,Tribeca,4.66667
+Manero's Bar & Restaurant,52800,Italian,1,Little Italy,4.75
+Seamore's Brookfield,59703,Seafood,1,Battery Park,4.42857
+Reserve Cut,58431,Kosher,2,New York,4.72303
+La Marchande,59156,French,3,Financial District,4.65455
+Jose Luis Little Italy,60634,Italian,1,Little Italy,5.0
+Dante Seaport,58736,Cocktail Bar,1,The Seaport,3.668
+NoMo Kitchen,58690,American,1,New York,3.73128
+Casa D' Angelo,60516,Italian,1,New York,5.0
+Time,60652,Sushi,1,New York,4.20513
+l'abeille,59006,French,3,Tribeca,4.7827
+Two Hands Nolita,58125,Brunch,1,Nolita,4.48148
+Champers Social Club,60445,American,2,Soho,4.7
+Lobby Lounge,60639,Cocktail Bar,1,New York,4.94118
+Saito,60244,Japanese,3,Nolita,4.43137
+Corner Bar,59068,American,1,Lower East Side,4.81215
+BòCàPhê SoHo,58968,French Vietnamese,1,Soho,3.8
+Le Dive,60381,French,1,Lower East Side,4.88889
+Potluck Club,63514,Asian American,1,Chinatown,5.0
+Wan Wan,59570,Thai,1,Nolita,4.75543
+Momoya - Soho,59558,Japanese,1,Soho,4.48333
+Bongos,59853,American,1,Lower East Side,4.7375
+Local 92 Soho,59251,Mediterranean,1,New York,3.8
+Mila's Bistro,60604,French,1,New York,4.6
+CocoShack,60352,Seafood,1,Soho,4.83721
+Ye's Apothecary,60980,Szechuan,1,New York,4.60784
+Bar Tulix,58996,Mexican,1,Soho,4.44106
+Essex Pearl,58951,Southeast Asian,1,Lower East Side,4.73626
+Matsunori,58553,Sushi,1,New York,4.77363
+Gugu Room,60350,Filipino,1,Lower East Side,4.49398
+Seamore's Dumbo,59704,Seafood,1,DUMBO,4.38043
+Belse Restaurant and Brewery NYC,59164,Vegan & Plant-based,3,Lower East Side,4.7561
+Sushi on Jones - LES,59384,Sushi,1,New York,4.81818
+Sauce Restaurant,59476,Italian,1,New York,4.78313
+Little Prince,54193,French,2,SoHo,4.56575
+Ingas Bar,59402,American,2,Brooklyn Heights,4.65668
+Saigon Social,10494,Vietnamese,1,Lower East Side,4.68248
+Sami & Susu,58776,Mediterranean,2,Lower East Side,4.66393
+Figaro NYC,60931,American,2,Greenwich Village,5.0
+Kappo Sono / Koryori,58600,Japanese,4,New York,5.0
+Maestro Pasta,60111,Italian,2,New York,5.0
+Takumi Omakase,59638,Sushi,1,Lower East Side,4.63356
+Misirizzi,58489,Italian,1,Noho/East Village,4.51402
+Gazab,60097,Indian,1,Lower East Side,4.36
+Unique Omakase,62919,Japanese,1,New York,5.0
+Prodigy Wine,58355,Natural Wine,1,New York,4.75
+Bella Dea,60683,Seafood,3,West Village,4.2
+Little Charli,62856,Pizza,2,New York,5.0
+Felice Montague,55738,Italian,2,Brooklyn Heights,4.7066
+Mono + Mono,59569,Korean,2,New York,4.31373
+Iris Cafe,59022,American,1,Brooklyn,4.63043
+The Noortwyck,58972,New American,2,New York,4.87582
+"The Garden at The Standard, East Village",59993,Seafood,1,New York,4.16667
+Eros Greek Cuisine,54885,Greek,1,New York,4.0
+Clover Hill,58842,New American,1,Brooklyn Heights,4.74569
+Post,58469,American,1,New York,4.72
+Emmett's On Grove,58219,Italian,2,West Village,4.54174
+Mr Capri,59674,Italian,1,New York,4.80952
+Nai,59005,Spanish,2,East Village,4.375
+Somtum Der - East Village,61156,Thai,1,East Village,4.5
+Nudibranch,59010,Asian American,2,East Village,4.69106
+Marylou,59859,French,1,East village,4.78704
+Saint Downstairs,60987,Cocktail Bar,1,East Village,5.0
+Shmoné,59072,Israeli,1,Greenwich Village,4.15909
+St Jardim,59132,Natural Wine,1,West Village,4.82963
+Buenos Aires,59379,Argentinean,3,Lower East Side,5.0
+Wild Restaurant,57311,Italian,1,New York,3.55172
+LUZ Market + Restaurant,60735,Vegan & Plant-based,1,New York,5.0
+Saint,58666,New American,3,East Village,3.97753
+Please Don't Tell Calle San Marcos,60882,Mexican,1,East Village,3.35714
+TLK - by Tigerlily Kitchen,58637,Southeast Asian,1,East Village,4.78095
+Temakase,59605,Sushi,2,East Village,4.42857
+Thirteen Water,59903,Sushi,1,Alphabet City,4.86982
+"Sekai, Omakase",59904,Japanese,1,West Village,4.56923
+Le Boudoir,60757,French,1,Brooklyn Heights,5.0
+Sushi Lab - East Village,61135,Sushi,1,East Village,5.0
+Numero 28 East Village,59218,Italian,1,New York,4.75
+Horus Cafe,62477,Mediterranean,1,New York,5.0
+Ding A Ling,58891,American,1,New York,4.4
+Smør,58326,European,1,East Village,4.84956
+The Waverly Inn,58422,American,3,West Village,4.39359
+Do Not Disturb,62913,New American,2,West Village,5.0
+Arthur & Sons NY Italian,56563,Italian American,1,West Village,4.60825
+Common Ground NYC,59229,American,1,New York,3.11111
+La Pecora Bianca - Meatpacking,58887,Italian,1,New York,4.45966
+Mollusca,59077,Seafood,1,Meatpacking,4.22222
+BòCàPhê Chelsea,58969,French Vietnamese,1,Chelsea,4.21053
+The Standard Biergarten,58621,German,2,Meatpacking,4.23077
+The Standard Plaza,58636,American,1,Meatpacking,4.11765
+Oiji Mi,58543,Korean,3,Flatiron,4.79048
+Barbounia,60357,Mediterranean,2,Gramercy,5.0
+Tacos Güey,60011,Mexican,1,Flatiron District,4.45161
+Sanyuu West,58894,Sushi,1,New York,4.80189
+NOIR NY,59976,Asian American,3,Chelsea,3.96667
+Shan山川,60346,Szechuan,1,Brooklyn,4.75758
+Seamore's Chelsea,59702,Seafood,1,Chelsea,4.3617
+Al Coro,59989,Italian,2,Chelsea,4.625
+Mel's,58524,Pizza,2,Chelsea,4.69311
+Antidote,60192,Chinese,1,Brooklyn,4.60484
+El Coco,59679,Mexican,1,Chelsea,3.41714
+Bass and Bourbon,58678,Kosher,2,Red Hook,4.30288
+Malii Gramercy,60928,Thai,1,Gramercy Park,4.0
+Bar Calico,58940,Cocktail Bar,1,Gramercy,4.52381
+Foragers Table,60404,Farm to Table,1,Chelsea,4.30769
+Hole in the Wall - Flatiron,59030,Australian,1,New York,4.14706
+El Quijote,58825,Spanish,1,Chelsea,4.38251
+TOWA,59063,Japanese,1,"NoMad, Manhattan",4.65899
+Hole in the Wall - Williamsburg,59028,Australian,1,Brooklyn,4.31818
+Tonchin Brooklyn,59933,Japanese,2,"Williamsburg, Brooklyn",5.0
+Coletta,58982,Vegan,1,New York,4.78693
+Bordello Cocktail Club,59814,New American,1,Brooklyn,4.27273
+The Rusty Face,59041,Mediterranean,1,Brooklyn,4.86
+Birds of a Feather,63241,Chinese,2,Williamsburg Brooklyn,4.91667
+GG Tokyo,59642,Japanese,1,"Kips Bay, Madison Square Park",4.38462
+The Factory 380,59583,American,1,New York,4.26316
+Dinner Party,60228,New American,1,Fort Greene,4.80303
+Rosarito Fish Shack,58852,Oysters,1,Brooklyn,4.36364
+ilili,60544,Lebanese,2,Flatiron District,4.53552
+Osteria Brooklyn,62902,Italian,1,Brooklyn- Clinton Hill,5.0
+Sushi Blossoms,59048,Sushi,2,New York,4.72263
+Somtum Der - Red Hook,61155,Thai,1,"Red Hook, Brooklyn",4.83333
+Plant Bar,60498,Vegan & Plant-based,1,NOMAD,4.125
+Resy Presents: The Women of Food at Kokomo,60425,Caribbean,2,Brooklyn,5.0
+The Vine NYC,58646,International,1,New York,4.27273
+Antica Pesa Brooklyn,60610,Italian,1,Williamsburg,4.62069
+Oregano,62665,Italian,1,Brooklyn,4.875
+PALPAL,59064,Korean,1,NoMad,4.63804
+Turntable Chicken & Rock,60908,Korean Gastropub,1,New York,5.0
+Laser Wolf Brooklyn,58848,Israeli,2,Williamsburg,4.76829
+Spice Symphony - 31st Lexington,60649,Indian,1,Murray Hill,5.0
+L'Amico,58645,Italian,2,New York,4.35888
+Santa Fe BK,63527,Southwest,1,"Williamsburg, Brooklyn",5.0
+NUBIANI,60933,Korean BBQ,3,Empire state building,4.95652
+Nora Thai,60207,Thai,1,Williamsburg,4.41667
+K32 Rooftop,63525,Drinks and Snacks,1,New York,5.0
+Aromi,59847,Italian,2,Carrol Garden,4.93939
+Antoya BBQ,60662,Korean BBQ,1,Koreatown,4.13115
+Isla & Co,59056,Australian,1,Brooklyn,4.0339
+Creatures of All Kind,60775,Rooftop Lounge,1,Brooklyn,4.57143
+Cedric's At The Shed,59551,American,1,New York,4.7
+El Pingüino,58513,Seafood,2,Brooklyn,4.78363
+Whitmans- Hudson Yards,60105,Burgers,1,New York,4.875
+Zou Zou's,59617,Mediterranean,3,Upper Chelsea,4.57692
+Bogota Latin Bistro,58525,Latin American,2,Brooklyn,4.67333
+Hole in the Wall - Murray Hill,59031,Australian,1,New York,4.14286
+Ipanema Restaurant,53412,Brazilian,2,Midtown,4.625
+Resy Presents: The Women of Food at Ci Siamo,60420,Italian,3,Hudson Yards,5.0
+Negril BK,58756,Caribbean,2,"Park Slope, Brooklyn",4.7303
+Place des Fêtes,59848,Mediterranean,1,Clinton Hill,4.84343
+Leroy's American Bistro,60413,New American,1,Brooklyn,5.0
+Carneval Brooklyn,58622,Spanish Latin Caribbean,1,Brooklyn,4.32
+Café China,59237,Chinese,2,New York Midtown,4.55401
+Isla,58527,Australian,3,New York,4.39286
+La Brochette,62860,Kosher,2,New York,5.0
+Patti Ann's,59407,American,2,Prospect Heights,4.64413
+Oita - NYC,58607,Japanese,1,Park slope brooklyn,4.77064
+Northern Bell,58252,American,1,Brooklyn,4.71429
+Peppercorn Station,60104,Chinese,1,New York,5.0
+KanaHashi,59637,Japanese,1,Greenpoint,5.0
+The Dean,60013,New American,1,New York,5.0
+Wenwen,59536,Taiwanese,1,Greenpoint,4.69869
+TALEA Beer Co.,58916,Beer,1,Brooklyn,4.83978
+Edith's Eatery and Grocery,58976,Jewish American,1,Williamsburg,4.6443
+The Joyce Public House,54191,New American,1,New York,4.40909
+ammazzacaffè,60283,Italian,1,East Williamsburg,4.65217
+The Lambs Bar,60630,Contemporary American,1,New York,4.42857
+The Lambs Club,55519,Contemporary American,1,Theater District / Times Square,4.67931
+Fashion Bar & Restaurant,59154,International,1,New York,5.0
+Sicily,60608,Italian,2,New York,4.72222
+The Woo Woo,59428,Cocktail Bar,1,Hell's Kitchen,4.16867
+The Terrace and Outdoor Gardens at the Times Square EDITION,59203,Contemporary American,3,Times Square,4.46474
+Runner Up,59994,Contemporary American,2,Park Slope,4.91064
+Fasano Restaurant New York,58119,Italian,1,New York,4.73997
+Wollensky's Grill,60691,American,2,Midtown East,4.66667
+Casa Enrique,58337,Mexican,1,Long Island City,4.72121
+Villard Restaurant,59858,New American,2,Midtown East,5.0
+West End,60791,New American,1,Hells Kitchen,5.0
+Bar Orai,60411,Japanese,1,Midtown East,4.69697
+LORE,58523,Local,1,Brooklyn,4.77644
+Madam Mikette's,59397,American,1,Midtown East,4.19231
+Obao - Midtown,59730,Thai,1,New York,4.65385
+Alef,57167,Cocktail Bar,1,Hell's Kitchen,4.5
+53,60303,Asian,3,Midtown,4.80508
+Jasper's Taphouse & Kitchen,59125,American,1,New York,4.4
+ostudio,60371,Wine,2,Brooklyn,4.97561
+Alfie's Kitchen & Craft Beer Bar,59096,American,1,New York,4.59821
+Arden,58865,American,1,Crown Heights,4.94545
+Amy Fontaine's,58528,American,1,New York,4.52273
+Agi's Counter,59469,European,1,Crown Heights,4.88288
+Bocca di Bacco - Hells Kitchen,59685,Italian,1,Hell's Kitchen,4.28571
+El Coco 9th Ave,59705,Mexican,1,Hell's Kitchen,3.7
+No Aloha,60773,New American,1,East Williamsburg,3.375
+IRIS,59202,Mediterranean,1,Midtown,4.60491
+Eyval,59419,Persian,1,Brooklyn,4.78067
+Ayat,60956,Palestinian,1,Industry City,3.8
+Darling,54043,American,3,Midtown East,3.88601
+Chola Restaurant,54355,Indian,2,New York,4.68531
+Sobre Masa,60200,Mexican,1,Brooklyn,4.7561
+Maomao,63238,Thai,1,Brooklyn,5.0
+El Santo Taqueria,59906,Mexican,1,Bushwick,4.75
+Anassa Taverna - Midtown,58983,Greek,2,New York,4.53401
+TWO E Lounge,60748,Cocktail Bar,1,New York,5.0
+Sea Salt,60046,Greek,2,Midtown,4.73684
+Il Gradino,60884,Italian,1,Upper East Side,4.75
+Felice 64,59619,Italian,2,Upper East Side,4.66087
+The Ten Bells- BK,58530,Natural Wine,2,Bushwick,4.68571
+Old John's Luncheonette,59219,American,1,New York,4.81609
+Felice Columbus,59614,Italian,1,New York,4.67281
+Ella Social,59299,Spanish,1,Upper West Side,4.60674
+Community,59093,American,1,New York,4.72512
+Finestra,59230,Italian,2,Upper East Side,4.5
+Doha Bar & Lounge,59285,Latin American,1,Astoria,5.0
+Numero 28 - UES,61004,Italian,1,UES,5.0
+Arte Cafe,58565,Italian,2,New York,4.21429
+Doc Watson's,59097,American,1,New York,4.8
+Keys & Heels,58735,Cocktail Bar,1,Upper East Side,4.52402
+La Pecora Bianca - UWS,64003,Italian,1,New York,4.77049
+Sojourn,58283,New American,2,New York,4.05
+Citrico Cafe,59421,Mexican,1,Astoria,4.46429
+Felice 83,59609,Italian,1,Upper East Side,4.71196
+Not A Speakeasy,59920,Cocktail Bar,1,Upper East Side,4.125
+Prohibition - New York,57686,New American,1,Upper West Side,4.85276
+Motorino- Upper West Side,58839,Italian,1,New York,4.36842
+Lashevet,58175,Middle Eastern,1,New York,4.55844
+Sojourn Social,58586,International,1,New York,4.62857
+Pizzeria Panina,59646,Pizza,1,Queens,4.89773
+Oliver's Astoria,58374,New American,2,Astoria,4.46552
+The Milton NYC,59123,Irish,2,New York,3.875
+Bellucci's Pizzeria,60102,Pizza,1,Astoria,5.0
+Baazi,55227,Indian,1,Upper West Side,4.34962
+Sands of Persia,59623,Middle Eastern,1,Queens,4.05714
+Street Taco UWS,54752,Mexican,1,New York,4.64336
+The Thirsty Koala,58595,Australian,2,Queens,4.67925
+"Celebrating International Women's Month/Day ""Sisters Can We Talk""",59378,American,2,Harlem,5.0
+Archer & Goat,58863,New American,1,Harlem,4.81818
+D’Antigua,60609,Latin American,1,"Jackson Heights, Queens",5.0
+Jade Eatery and Lounge,58515,Asian,2,Queens,4.03509
+Wise Bar and Grill,60684,New American,2,Brooklyn,4.92857
+When in Bangkok,60041,Thai,1,Murray Hill,4.83871
+K Pasa,60418,Tacos,1,Sag Harbor,4.44444
+Da Radda,60780,Argentinean,2,EAST VILLAGE,5.0
+Café Salmagundi,34165,Korean,2,Gramercy Park,4.57895
+Seamore's UES,59706,Seafood,1,Upper East Side,4.34734
