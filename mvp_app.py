@@ -17,7 +17,7 @@ days_of_week = {
 }
 
 user_email = st.text_input(label="enter your Resy email", value="elijahflomen@gmail.com")
-user_password = st.text_input(label="enter your Resy password", value="nfn!hyp!nyx_ymp5KXC")
+user_password = st.text_input(label="enter your Resy password", value="")
 login_button = st.button("connect to Resy")
 if user_email and user_password and login_button:
     resy_login = ResyLogin(username=user_email, password=user_password)
